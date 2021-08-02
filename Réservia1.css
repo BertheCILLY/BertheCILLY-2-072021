@@ -143,12 +143,10 @@ h2{
 
 /* Filters */
 
-
 .boutonfiltre p {
     font-weight: bold;
     font-size: 15px;
 }
-
 .filtres {
     display: flex;
     flex-direction: column;
@@ -160,7 +158,6 @@ h2{
     display: flex;
     flex-flow: row wrap;
 }
-
 
 .filtres .title {
     margin-bottom: 20px;
@@ -417,7 +414,6 @@ p.NbLogements {
     box-sizing: border-box;
     overflow: hidden;
 }
-
 .popularFrame:hover{
     box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.30),3px 3px 12px rgba(0, 0, 0, 0.1);
 }
@@ -498,6 +494,7 @@ p.NbLogements {
 }
 
 /* Footer */
+
 
 footer{
     padding: 20px 50px 50px;
