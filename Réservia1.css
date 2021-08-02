@@ -7,22 +7,24 @@ body{
     box-sizing: border-box; 
     font-family: 'Raleway', sans-serif;
 }
+
 #main{
     margin: 0 50px 50px;
 }
 
-
-
 ul{
+
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
+
 a{
     text-decoration: none;
     color: inherit;
 }
+
 
 h2{
     font-weight: 700;
@@ -106,6 +108,7 @@ h2{
     flex-shrink: 0;
 }
 
+
 .containerMarker i{
     margin: auto;
     font-size: 1.2rem;
@@ -146,8 +149,6 @@ h2{
 /* Filters */
 
 
-
-
 .boutonfiltre p {
     font-weight: bold;
     font-size: 15px;
@@ -164,6 +165,7 @@ h2{
     display: flex;
     flex-flow: row wrap;
 }
+
 
 .filtres .title {
     margin-bottom: 20px;
@@ -197,7 +199,6 @@ h2{
 .filtres .boutonfiltre:last-child {
     margin-right: 0;
 }
-
 .filtres .boutonfiltre i {
     line-height: 50px;
     color: #0065FC;
