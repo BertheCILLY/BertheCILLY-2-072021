@@ -790,10 +790,11 @@ footer li{
     .headerimg {
       order: 0;
     }
+    
     .headerSignup {
       order: 1;
     }
-    
+
     .headerNav {
       order: 2;
     }
